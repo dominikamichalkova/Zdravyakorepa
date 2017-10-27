@@ -106,13 +106,12 @@
     /* initial menu */
     .menu {
         background-color: #9e0039;
-        opacity: 0.9;
-        /*left: -285px;  /* start off behind the scenes */
+        opacity: 0.9; 
         height: 100%;
         top: 0px;
         position: fixed;
         width: 285px;
-        left: -285px;
+        left: -285px;/* start off behind the scenes */
         z-index: 2000;
     }
 
